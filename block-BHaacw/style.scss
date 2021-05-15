@@ -1,0 +1,24 @@
+@import "_reset.scss";
+body {
+  background-color: #3a4b4f;
+}
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 32px;
+}
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 42px;
+  padding: 32px;
+}
+.flex {
+  display: flex;
+}
+ul {
+  list-style: none;
+}
+nav {
+  border: 1px solid white;
+}
